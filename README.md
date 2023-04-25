@@ -14,8 +14,10 @@ NYP
 
 ### Code Block
 ```
-
 I am at Nanyang Polytechnic
 Blk S
 Room 540
 ```
+
+### Code Line
+`sudo raspi-config`
