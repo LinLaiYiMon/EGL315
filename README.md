@@ -21,3 +21,29 @@ Room 540
 
 ### Code Line
 `sudo raspi-config`
+
+## Adding Picture
+
+Cute picture of a cat
+
+![Alt text](images/cat.jpg)
+
+## Block Diagram
+
+Left to Right
+```mermaid
+graph LR
+
+A --> B
+```
+Top to Down
+```mermaid
+graph TD
+
+A[Rasp Pi] --> B[Router]
+B --> C[TV]
+D[Light Sensor] --> A
+A --> D
+E --> A
+E --> C
+```
